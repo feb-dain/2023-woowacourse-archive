@@ -26,8 +26,8 @@
 |     |               |        [react-payments-step3](https://github.com/feb-dain/react-payments/tree/step3)        | [Pull Request](https://github.com/woowacourse/react-payments/pull/324)           |
 |  3  |   장바구니    |   [react-shopping-cart-step1](https://github.com/feb-dain/react-shopping-cart/tree/step1)   | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/168)      |
 |     |               |   [react-shopping-cart-step2](https://github.com/feb-dain/react-shopping-cart/tree/step2)   | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/209)      |
-|  4  | 장바구니 협업 | [react-shopping-cart-prod](https://github.com/feb-dain/react-shopping-cart-prod/tree/step1) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/113) |
-|     |              | [react-shopping-cart-prod](https://github.com/feb-dain/react-shopping-cart-prod/tree/step2) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/165) |
+|  4  | 장바구니 협업 | [react-shopping-cart-prod-step1](https://github.com/feb-dain/react-shopping-cart-prod/tree/step1) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/113) |
+|     |              | [react-shopping-cart-prod-step2](https://github.com/feb-dain/react-shopping-cart-prod/tree/step2) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/165) |
 
 <br />
 
@@ -45,7 +45,7 @@
 | No. |         Project         |                                           Repository                                           | Pull Request                                                                     |
 | :-: | :---------------------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- |
 |  1  | 프론트엔드 성능 베이스캠프|           [performance-basecamp](https://github.com/feb-dain/perf-basecamp/tree/feb-dain)      | [Pull Request](https://github.com/woowacourse/perf-basecamp/pull/109)            |
-|  2  |     레이아웃 컴포넌트    |           [layout-component](https://github.com/feb-dain/layout-component/tree/step1)          | [Pull Request](https://github.com/woowacourse/layout-component/pull/35)          |
-|     |                         |           [layout-component](https://github.com/feb-dain/layout-component/tree/step2)         | [Pull Request](https://github.com/woowacourse/layout-component/pull/97)           |
+|  2  |     레이아웃 컴포넌트    |           [layout-component-step1](https://github.com/feb-dain/layout-component/tree/step1)          | [Pull Request](https://github.com/woowacourse/layout-component/pull/35)          |
+|     |                         |           [layout-component-step2](https://github.com/feb-dain/layout-component/tree/step2)         | [Pull Request](https://github.com/woowacourse/layout-component/pull/97)           |
 
 <br />
