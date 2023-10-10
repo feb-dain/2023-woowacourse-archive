@@ -33,7 +33,7 @@
 
 ## Level 3 - ✨ Team Project ✨
 
-|         Name        |                              Repository                                            |            website            |
+|         Name        |                              Repository                                            |            Website            |
 | :-----------------: | :--------------------------------------------------------------------------------: |:-----------------------------:|
 |        카페인        |       [2023-car-ffeine](https://github.com/woowacourse-teams/2023-car-ffeine)      |[carffe.in](https://carffe.in/)|
 
