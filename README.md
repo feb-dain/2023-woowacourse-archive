@@ -46,6 +46,7 @@
 | :-: | :---------------------: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------- |
 |  1  | 프론트엔드 성능 베이스캠프|           [performance-basecamp](https://github.com/feb-dain/perf-basecamp/tree/feb-dain)      | [Pull Request](https://github.com/woowacourse/perf-basecamp/pull/109)            |
 |  2  |     레이아웃 컴포넌트    |           [layout-component-step1](https://github.com/feb-dain/layout-component/tree/step1)          | [Pull Request](https://github.com/woowacourse/layout-component/pull/35)          |
-|     |                         |           [layout-component-step2](https://github.com/feb-dain/layout-component/tree/step2)         | [Pull Request](https://github.com/woowacourse/layout-component/pull/97)           |
+|     |                         |           [layout-component-step2](https://github.com/feb-dain/layout-component/tree/step2)         | [Pull Request](https://github.com/woowacourse/layout-component/pull/97)       |
+|  3  | 프로젝트 렌더링 방식 (with Next.js) | [frontend-rendering](https://github.com/feb-dain/frontend-rendering) | [Pull Request](https://github.com/woowacourse/frontend-rendering/pull/22) |
 
 <br />
